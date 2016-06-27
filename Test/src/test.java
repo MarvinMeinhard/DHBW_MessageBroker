@@ -2,7 +2,7 @@
 public class test {
 
 	public static void main(String[] args) {
-//aöeslkfnm, vdfx.naböegknv
+hier ist kein compiler, das ist echt kacke
 	}
 
 }
