@@ -2,14 +2,10 @@
 public class test {
 
 	public static void main(String[] args) {
-<<<<<<< HEAD
- System.out.ptintln(w‰re voll hammer, wenns debugen g‰be");
- 
- 
- 
-=======
-hier ist kein compiler, das ist echt kacke
->>>>>>> branch 'Test' of https://github.com/djoliboli/DHBW_MessageBroker
+	/* wollen wir es dann so machen wie Max es gesagt hat ? also tcp zwischen Produzent und Server und UDP zwischen
+	konsument und server ? Hab das mal so ausprobiert und denke auch das dass am schlausten w√§re 
+	*/
+	
 	}
 
 }
